@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityazanzane-coditas
+- 👋 Hi, I’m Aditya Zanzane (@adityazanzane-coditas)
 - 👀 I’m interested in Java, Dart, Flutter, Javascript, OOPS, HTML, HTTP
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects and assignments
