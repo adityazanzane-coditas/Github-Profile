@@ -8,9 +8,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Still Learning!!!
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=OpenDevin/OpenDevin&type=Date)](https://star-history.com/#OpenDevin/OpenDevin&Date)
 <!---
 adityazanzane-coditas/adityazanzane-coditas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
